@@ -1,5 +1,6 @@
 # Assignment2
 Waterfall
+
 Requirements definition 
 Services – the user can do certain actions depending on what type of user they are 
 Constraints – the user can only select one of three choices identifying themselves, no other option would work 
@@ -25,6 +26,7 @@ Operation and maintenance
 When run, edit any error that may occur 
 
 Incremental
+
 Step 1: 
 The user interface will allow the user to enter their name and id to get them into the system 
 
@@ -44,6 +46,7 @@ Step 5:
 The final version will consist of classes that allow the specified user to successfully go through the system and do the tasks they need to do 
 
 Integrate and Configure
+
 Other school websites have similar requirements that will allow the user to do what they need to do 
 Adding address and phone number to the database to be saved 
 Parts of the classes would be revised to accommodate the standards of needing certain user information 
